@@ -21,7 +21,7 @@ git clone https://github.com/Popch01/to-do.git
 
 Navigate to the project folder:
 
-cd todo-app
+cd to-do
 
 Open index.html in a web browser.
 
